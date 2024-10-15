@@ -4,7 +4,7 @@ I am R, a computer scientist with a specialty in networks and backend. My curren
 
 I am not on Linkedin or any other social media. Check out my [Carrd](https://rflandau.carrd.co) instead.
 
-<img src="self.png" alt="a picture of me" width=250px />
+<img align="left" src="self.png" alt="a picture of me" width=250px />
 
 <div style="text-indent: 2em">
 
@@ -18,8 +18,9 @@ I am not on Linkedin or any other social media. Check out my [Carrd](https://rfl
 
 </div>
 
----
+<br><br>
 
+---
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width=40px title="Golang my beloved" alt="Golang my beloved"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=40px title="C" alt="C"/>&nbsp;
