@@ -40,6 +40,6 @@ I am not on Linkedin or any other social media. Check out my [Carrd](https://rfl
 
 ## A Few of My Recent, Public Project
 
-- [Gravwell CLI](https://github.com/rflandau/gwcli) - A redesigned, open-source, scriptable TUI for the [Gravwell](gravwell.io) platform.
+- [Gravwell CLI](https://github.com/rflandau/gwcli) - A redesigned, open-source, scriptable TUI for the [Gravwell](https://gravwell.io) platform.
 - [Weave](https://github.com/rflandau/weave) - Turn Golang structs into common, exportable formats like CSV or JSON.
 - [B-TOAS](Proposal_Poster.pdf) - Proposal for a blind-turn alert system for dangerous roads. Course: *Special Topics - IoT Protocols and Standards*
