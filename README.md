@@ -19,6 +19,7 @@ I am not on Linkedin or any other social media. Check out my [Carrd](https://rfl
 </div>
 
 ---
+
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width=40px title="Golang my beloved" alt="Golang my beloved"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=40px title="C" alt="C"/>&nbsp;
@@ -35,3 +36,10 @@ I am not on Linkedin or any other social media. Check out my [Carrd](https://rfl
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width=40px title="Kubernetes" alt="Kubernetes"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=20px title="Python, begrudgingly" alt="Python, begrudgingly"/>&nbsp;
 </div>
+
+
+## A Few of My Recent, Public Project
+
+- [Gravwell CLI](https://github.com/rflandau/gwcli) - A redesigned, open-source, scriptable TUI for the [Gravwell](gravwell.io) platform.
+- [Weave](https://github.com/rflandau/weave) - Turn Golang structs into common, exportable formats like CSV or JSON.
+- [B-TOAS](Proposal_Poster.pdf) - Proposal for a blind-turn alert system for dangerous roads. Course: *Special Topics - IoT Protocols and Standards*
