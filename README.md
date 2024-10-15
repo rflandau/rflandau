@@ -8,17 +8,15 @@ I am not on Linkedin or any other social media. Check out my [Carrd](https://rfl
 
 <div style="text-indent: 2em">
 
-<img style="width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> Linux diehard.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=50px /> Linux diehard.
 
-<img style="width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" /> Debian hierophant. 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width=50px /> Debian hierophant. 
           
-<img style="width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /> Hail the Gopher.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width=50px /> Hail the Gopher.
 
-<img style="width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> Curse the Serpent.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px /> Curse the Serpent.
 
 </div>
-
-<br><br>
 
 ---
 <div>
