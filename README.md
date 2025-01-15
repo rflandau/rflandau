@@ -1,6 +1,6 @@
 Howdy,
 
-I am R, a computer scientist with a specialty in networks and backend. My current work is as a Carnegie Mellon graduate student pursuing my [MSMITE](https://www.cmu.edu/ini/academics/bicoastal/index.html) with a concentration in *Tiny Devices across Disciplines*. 
+I am R, a computer scientist with a specialty in networks and backend architecture. My current work is as a Carnegie Mellon graduate student pursuing my [MSMITE](https://www.cmu.edu/ini/academics/bicoastal/index.html) with a concentration in *Tiny Networks*. 
 
 I am not on Linkedin or any other social media. Check out my [Carrd](https://rflandau.carrd.co) instead.
 
@@ -34,7 +34,7 @@ I am not on Linkedin or any other social media. Check out my [Carrd](https://rfl
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width=40px title="SQLite" alt="SQLite"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40px title="AWS" alt="AWS"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width=40px title="Kubernetes" alt="Kubernetes"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=20px title="Python, begrudgingly" alt="Python, begrudgingly"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40px title="Python, begrudgingly" alt="Python, begrudgingly"/>&nbsp;
 </div>
 
 
