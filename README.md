@@ -2,7 +2,7 @@ Howdy,
 
 I am R, a computer scientist with a specialty in networks and backend architecture. My current work is as a Carnegie Mellon graduate student pursuing my [MSMITE](https://www.cmu.edu/ini/academics/bicoastal/index.html) with a concentration in *Tiny Networks*. 
 
-I am not on Linkedin or any other social media. Check out my [Carrd](https://rflandau.carrd.co) instead.
+Check out my [Carrd](https://rflandau.carrd.co).
 
 <img align="left" src="self.png" alt="a picture of me" width=250px />
 
