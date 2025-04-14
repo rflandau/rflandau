@@ -38,7 +38,7 @@ Check out my [Carrd](https://rflandau.carrd.co).
 </div>
 
 
-## A Few of My Recent, Public Project
+## A Few of My Recent, Public Projects
 
 - [Gravwell CLI](https://github.com/rflandau/gwcli) - A redesigned, open-source, scriptable TUI for the [Gravwell](https://gravwell.io) platform.
 - [Weave](https://github.com/rflandau/weave) - Turn Golang structs into common, exportable formats like CSV or JSON.
