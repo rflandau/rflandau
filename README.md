@@ -1,6 +1,6 @@
 Howdy,
 
-I am R, a computer scientist with a specialty in networks and backend architecture. My current work is as a Carnegie Mellon graduate student pursuing my [MSMITE](https://www.cmu.edu/ini/academics/bicoastal/index.html) with a concentration in *Tiny Networks*. 
+I am R, a computer scientist with a specialty in networks and backend architecture. My current work is as a Carnegie Mellon graduate student pursuing my [MSMITE](https://www.cmu.edu/ini/academics/bicoastal/index.html) with a concentration in *Tiny Networks*.  As part of my masters, I co-invented the [Orv protocol](https://github.com/rflandau/Orv) for dentralized service discovery.
 
 Check out my [Carrd](https://rflandau.carrd.co).
 
@@ -40,6 +40,7 @@ Check out my [Carrd](https://rflandau.carrd.co).
 
 ## A Few of My Recent, Public Projects
 
+- [Orv](https://github.com/rflandau/Orv) - A protocol for decentralized, hierarchical service discovery networks of all sizes. Designed with IoT in mind.
 - [Gravwell CLI](https://github.com/rflandau/gwcli) - A redesigned, open-source, scriptable TUI for the [Gravwell](https://gravwell.io) platform.
 - [Weave](https://github.com/rflandau/weave) - Turn Golang structs into common, exportable formats like CSV or JSON.
 - [B-TOAS](Proposal_Poster.pdf) - Proposal for a blind-turn alert system for dangerous roads. Course: *Special Topics - IoT Protocols and Standards*. **Does not load properly in some browsers; try downloading it.**
